@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 💬 Ask me about **React, Node.js, Express, MongoDb, Prisma etc**
+- 💬 Ask me about **React, Node.js, Express, MongoDb, Prisma, Typescript etc**
 
 - 📫 How to reach me **the.sahil.verse@gmail.com**
 
