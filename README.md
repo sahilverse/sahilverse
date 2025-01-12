@@ -30,7 +30,7 @@
 
       
 ## 📊 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=sahilverse&bg_color=000000&color=ffffff&line=00ccf5&point=ffffff&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sahilverse&bg_color=100e0e&color=ffffff&line=172891&point=ffffff&area=true&hide_border=true)
     
     
 
@@ -38,9 +38,9 @@
 ## 📈 GitHub Stats & 🔍 Used Languages
 
 <div style="display: flex; gap: 20px;">  
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=sahilverse&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="sahilverse's GitHub Stats" /> 
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverse&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="sahilverse's Top Languages" />  
-<img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilverse&theme=radical&hide_border=false" alt="sahilverse's GitHub Streak" /> 
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=sahilverse&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="sahilverse's GitHub Stats" /> 
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverse&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="sahilverse's Top Languages" />  
+<img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilverse&theme=dracula&hide_border=true" alt="sahilverse's GitHub Streak" /> 
 </div>
       
       
