@@ -15,7 +15,7 @@
 
 -💬 Ask me about **React, Node.js, Express, MongoDb, Prisma, Typescript etc**
 
--📫 How to reach me:[the.sahil.verse@gmail.com](mailto:the.sahil.verse@gmail.com)
+-📫 How to reach me: [the.sahil.verse@gmail.com](mailto:the.sahil.verse@gmail.com)
 
 -⚡ Fun fact **neurons that fire together, wire together**
     
