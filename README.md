@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sahil Dahal</h1>
     
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A passionate Software Engineer from Nepal</h3>
     
     
     
