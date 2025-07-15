@@ -9,7 +9,7 @@
 
 
 ## 🚀 About Me
--🔭 I’m currently working on  **MERN Stack**
+-🔭 I’m currently working on **turning coffee into code**
 
 -🌱 I’m currently learning **Amazon Web Services**
 
