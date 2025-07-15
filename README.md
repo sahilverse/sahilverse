@@ -13,7 +13,7 @@
 
 -🌱 I’m currently learning **Amazon Web Services**
 
--💬 Ask me about **React, Node.js, Express, MongoDb, Prisma, Typescript etc**
+-💬 Ask me about **Typescript, Express, React, Python, Django etc**
 
 -📫 How to reach me: [the.sahil.verse@gmail.com](mailto:the.sahil.verse@gmail.com)
 
