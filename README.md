@@ -11,7 +11,7 @@
 ## 🚀 About Me
 -🔭 I’m currently working on **turning coffee into code**
 
--🌱 I’m currently learning **Amazon Web Services**
+-🌱 I’m currently learning **Machine Learning**
 
 -💬 Ask me about **Typescript, Express, React, Python, Django etc**
 
