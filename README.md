@@ -3,11 +3,11 @@
 <h3 align="center">Software Engineer from Nepal · Building the infrastructure that powers tomorrow.</h3>
 
 <p align="center">
-  <a href="https://sahildahal.com.np/">Website</a> ·
-  <a href="https://youtube.com/@thesahilverseofficial">YouTube</a> ·
-  <a href="https://x.com/sahilverse_">X</a> ·
-  <a href="https://linkedin.com/in/sahilverse">LinkedIn</a> ·
-  <a href="https://www.instagram.com/sahil__verse/">Instagram</a>
+  <a href="https://sahildahal.com.np/" rel="noopener" target="_blank">Website</a> ·
+  <a href="https://youtube.com/@thesahilverseofficial" target="_blank">YouTube</a> ·
+  <a href="https://x.com/sahilverse_" target="_blank">X</a> ·
+  <a href="https://linkedin.com/in/sahilverse" target="_blank">LinkedIn</a> ·
+  <a href="https://www.instagram.com/sahil__verse/" target="_blank">Instagram</a>
 </p>
 
 ---
