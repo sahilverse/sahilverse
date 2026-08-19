@@ -4,6 +4,7 @@ import './globals.css'
 import { siteConfig } from '@/lib/siteConfig'
 import { buildPersonJsonLd, buildWebsiteJsonLd, buildProjectsJsonLd, buildFaqJsonLd } from '@/lib/jsonLd'
 import { Analytics } from '@vercel/analytics/next'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 
 const spaceGrotesk = Space_Grotesk({
   subsets: ['latin'],
@@ -76,6 +77,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-full bg-void text-foreground font-display antialiased">
         {children}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   )
