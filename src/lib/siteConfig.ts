@@ -8,7 +8,7 @@ export const siteConfig = {
   socials: {
     github: 'https://github.com/sahilverse',
     linkedin: 'https://www.linkedin.com/in/sahilverse/',
-    instagram: 'https://instagram.com/sahil__verse',
+    instagram: 'https://instagram.com/the.sahilverse_',
     youtube: 'https://www.youtube.com/@thesahilverseofficial',
     twitter: 'https://x.com/Sahilverse_',
   },
