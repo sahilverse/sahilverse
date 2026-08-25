@@ -53,7 +53,7 @@ export const projects: Project[] = [
       'Cross-platform journaling application built with .NET MAUI and Blazor Hybrid. Runs natively on Windows, macOS, iOS, and Android, with mood tracking, tagging, and analytics.',
     mass: 'standard',
     lit: false,
-    href: 'https://github.com/sahilverse/Dainiki_Sahil_Dahal',
+    href: 'https://github.com/sahilverse/Dainiki',
   },
   {
     title: 'TruthAdvisor Foundation',
